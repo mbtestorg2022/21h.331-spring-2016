@@ -6,7 +6,30 @@ title: Assignments - Short Paper 3
 uid: 4b4cebe3-7ee5-b2e9-4b48-36ca210bc6f3
 ---
 
-| ![A slightly-damaged bust of a strong-featured gentleman with a receding hairline.]({{< resource_file 07f71fb1-01ee-5b86-d23e-5992984fb147 >}}) {{< br >}}{{< br >}} Marius {{< br >}}{{< br >}} (This image is in the public domain. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Marius_Glyptothek_Munich_319.jpg).) {{< br >}}{{< br >}}  | ![A slightly-damaged bust of a strong-featured gentleman with thick hair.]({{< resource_file bce0a17b-8c36-0bb2-3f19-e40ab4ddb6bf >}}) {{< br >}}{{< br >}} Sulla {{< br >}}{{< br >}} (This image is in the public domain. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sulla_Glyptothek_Munich_309.jpg).) {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+![A slightly-damaged bust of a strong-featured gentleman with a receding hairline.]({{< resource_file 07f71fb1-01ee-5b86-d23e-5992984fb147 >}})
+
+Marius
+
+(This image is in the public domain. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Marius_Glyptothek_Munich_319.jpg).)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+![A slightly-damaged bust of a strong-featured gentleman with thick hair.]({{< resource_file bce0a17b-8c36-0bb2-3f19-e40ab4ddb6bf >}})
+
+Sulla
+
+(This image is in the public domain. Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sulla_Glyptothek_Munich_309.jpg).)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Short Paper 3 should be a response paper on Appian, _The Civil Wars_, 1.55–107. To what should you be responding?
 
