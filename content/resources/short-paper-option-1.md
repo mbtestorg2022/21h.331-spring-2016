@@ -9,6 +9,7 @@ image_metadata:
   credit: 'This image is in the public domain. Source: Wikimedia Commons.'
   image-alt: A painting shows a seated woman, wearing a red flowing garment, looking
     toward three friendly-faced children.
+parent_uid: 20ec2382-74f8-748d-a9be-e2089806f486
 resourcetype: Image
 title: Short-paper-option-1.jpg
 uid: 0d7cca8d-3110-0640-7890-9ebbf473ad92

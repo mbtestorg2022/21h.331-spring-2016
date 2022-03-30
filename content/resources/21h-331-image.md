@@ -11,6 +11,7 @@ image_metadata:
   credit: 'This image is in the public domain. Source: Wikimedia Commons.'
   image-alt: A black and white drawing of a seated man wearing an elaborate tunic,
     gazing down at a man brought to him with his hands and feet in chains.
+parent_uid: 06be34ba-2555-3987-c8b9-a2b6f0255644
 resourcetype: Image
 title: 21h-331-image.jpg
 uid: b9b313c2-ab5b-707a-a07d-45715af8d701

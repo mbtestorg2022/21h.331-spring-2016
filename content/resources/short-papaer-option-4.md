@@ -9,6 +9,7 @@ image_metadata:
   credit: 'This image is in the public domain. Source: Wikimedia Commons.'
   image-alt: A painting shows a gallery of toga-wearing men watching the speech of
     one standing before them.
+parent_uid: 6c4169e0-f917-4675-d82a-b3a2756d633a
 resourcetype: Image
 title: short-papaer-option-4.jpg
 uid: d7981986-7019-98b7-76c8-144f3fe62903
